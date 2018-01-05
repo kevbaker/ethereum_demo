@@ -4,6 +4,8 @@
 This is the code for [this](https://youtu.be/-_Qs0XdPpw8) video on Youtube by Siraj Raval on Ethereum. We'll build a simple Ethereum smart contract and lightwallet example. Any problems running the code? See the [issues
 ](https://github.com/eshon/conference/issues) section.
 
+_Fork for kevbaker_
+
 
 ### Updates
 
